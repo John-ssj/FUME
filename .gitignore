@@ -1,3 +1,5 @@
 *.pyc
 config.txt
 crashes
+.DS_Store
+.idea
